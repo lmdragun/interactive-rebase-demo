@@ -1,2 +1,3 @@
-# interactive-rebase-demo
-Interative Rebase Demo
+# Interactive Rebase Demo
+
+This repo is to demonstrate interactive rebasing for a WWC class on Git
