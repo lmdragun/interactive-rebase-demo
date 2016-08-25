@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/lmdragun/interactive-rebase-demo/issues"
   },
-  "homepage": "https://github.com/lmdragun/interactive-rebase-demo#readme"
+  "homepage": "https://github.com/lmdragun/interactive-rebase-demo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "node-sass": "^3.8.0"
+  }
 }
